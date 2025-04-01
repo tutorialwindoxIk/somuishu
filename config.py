@@ -10,9 +10,9 @@ load_dotenv()
 API_ID = int(getenv("API_ID", "28228075"))
 API_HASH = getenv("API_HASH", "785f20222ea7de471d714c1d563c59df")
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "7398714280:")
+BOT_TOKEN = getenv("BOT_TOKEN", "7313059877:AAEuRl43jQbDd9yIRcW-AnwKH8BWWHn9gXE")
 # Add Owner Username without @ 
-OWNER_USERNAME = getenv("OWNER_USERNAME","alone_somu6")
+OWNER_USERNAME = getenv("OWNER_USERNAME","silent_aura")
 # Get Your bot username
 BOT_USERNAME = getenv("BOT_USERNAME" , "ll_shilpa_music_ll_bot")
 # Don't Add style font 
@@ -69,7 +69,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 5242880000))
 
 
 # Get @tmm_string_bot session from @tmm_STRING_BOT
-STRING1 = getenv("STRING_SESSION", "BQGuuesAkEdOkcwiMcUIjr_B4snKj1VpvNh1Lr2yrXuUI6mE1lu_60nINE6zdZlbW9Q0Y_262aKEX_yi4Ducc6bAYXt_c2LD2qZbgHy1nV8xn-0AXCcf9m4T3BNBfcKi5IUOY5ZH5jUovsLtvqdd7oakoR45Pgs9nzHHWNnHX3G9_TYT0_OuPJaL70Nm5d3Z3nZwi3AHm7_7Evh4GvSx5QE5ixC7UQI85ucSXpQnS2jQP8ebTcM1j61eAwiE6mIsH6-gmQJWgr2m2GbcbOGCxzjrbRh4wg-8xFPoTA-Dc5ZXMCoKNZYl_U2V-dB0o_k38NHSZOHZUmjKJ6hXkJdyp7D7o8jq4AAAAAHUG3e7AA")
+STRING1 = getenv("STRING_SESSION", "BQG0OpUAMDEpck1hjcd447vCrDQCYbE2XwEjpGzQTpZw51kCWG1lYt_3O2euUOzeyDmNfe3vWAepTxLXsxQrxHIAqRWDlMHEL8uzPalqC9pIstUXsGrOi7qjVvjoUwbue2ul_JN6kVwnm5yNltCInyNCfqlYPiB8lIbp4IrMywY4ooFR-WKjReHZ7KPsxeimTtEB8RnW2OFucw0RdX6heB1K3GOs-SavwCNdxCDGyLtcLXa244X0NRC1L4QfzxZal1H1nwmCNRuTdIPrcM66mW5r3D8bFvEMCpfLeas-FhdFJ4MSj7_tm-q1h-3UL_nShSzOm4BlU2gUEK1upQm3EWtxJMxBAAAAAAHfjZBmAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)

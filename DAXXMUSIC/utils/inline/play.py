@@ -69,11 +69,11 @@ def stream_markup_timer(_, chat_id, played, dur):
         [
             InlineKeyboardButton(
                 text="ʟɪꜰᴇ",
-                url=f"https://t.me/+E9O0qFRYOwMxYThl",
+                url=f"https://t.me/SANKINETWORK",
             ),
             InlineKeyboardButton(
                 text="ᴊᴀɴɴ",
-                url=f"https://t.me/SANKINETWORK",
+                url=f"https://t.me/+QPSshOWJThczMWU1",
             ),
         ],
         [
@@ -109,7 +109,7 @@ def stream_markup(_, chat_id):
 
                 text="ᴊᴀɴɴ",
 
-                url=f"https://t.me/+E9O0qFRYOwMxYThl",
+                url=f"https://t.me/+QPSshOWJThczMWU1",
 
             ),
         ],
